@@ -2,7 +2,7 @@
   "expo": {
     "name": "CurrencyConverter",
     "slug": "CurrencyConverter",
-    "privacy": "public",
+    "privacy": "private",
     "sdkVersion": "31.0.0",
     "platforms": [
       "ios",
